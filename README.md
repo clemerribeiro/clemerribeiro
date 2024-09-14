@@ -3,8 +3,8 @@
   <a href="https://github.com/clemerribeiro">
   
 <a href="https://www.github.com/clemerribeiro">
- <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosbitencourtswt&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosbitencourtswt&layout=compact&langs_count=16&theme=dark"/>
+ <img width="400px" height="180em" src="https://github-readme-stats.vercel.app/api?username=clemerribeiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clemerribeiro&layout=compact&langs_count=16&theme=dark"/>
 </div>
     
 </div>
@@ -35,12 +35,12 @@
 <h1>Atividade</h1>
 
 <p align="center" >   
-  <img src="https://profile-counter.glitch.me/marcosbitencourtswt/count.svg" />  
+  <img src="https://profile-counter.glitch.me/clemerribeiro/count.svg" />  
 </p>
 </div>
 
  
-  ![Snake animation](https://github.com/marcosbitencourtswt/marcosbitencourtswt/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/clemerribeiro/clemerribeiro/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
